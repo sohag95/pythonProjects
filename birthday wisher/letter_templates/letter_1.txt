@@ -1,0 +1,19 @@
+Hey SOHAG,
+
+TODAY is your [RELATION] [NAME]'s BIRTHDAY.[GENDER1] is now "[AGE]" YEARS of old.
+
+SENT [GENDER3] some "GOOD WISHES" through "EMAIL" or "PHONE".
+
+_________________DETAILS___________________
+
+Email_Id : [EMAIL]
+
+Phone Number : [PHONE]
+
+___________________________________________
+
+From
+Birthday Reminder App
+-MySelf
+
+
